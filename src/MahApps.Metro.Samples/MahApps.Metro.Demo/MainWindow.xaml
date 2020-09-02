@@ -22,7 +22,7 @@
                       NonActiveGlowBrush="#CDFF0000"
                       ShowIconOnTitleBar="True"
                       ShowTitleBar="{Binding ShowMyTitleBar, Mode=TwoWay}"
-                      WindowStartupLocation="CenterScreen"
+                      WindowStartupLocation="CenterScreen" WindowState="Maximized"
                       mc:Ignorable="d">
     <!--
         if using DialogParticipation on Windows which open/close frequently you will get a
